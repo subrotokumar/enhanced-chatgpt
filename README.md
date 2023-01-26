@@ -20,7 +20,7 @@
   <p align="center">
     AI chat application powered by OpenAI 
     <br />
-    <a href="https://github.com/subrotokumar/nyx/releases"><strong>Open <strong>Application</strong> »</strong></a>
+    <a href="https://enhanced-chatgpt-zeta.vercel.app/"><strong>Open <strong>Application</strong> »</strong></a>
     <br />
     <br />
     <a href="https://github.com/subrotokumar/nyx">View Demo</a>
@@ -63,7 +63,9 @@
 
 <br>
 <p align='center'>
+<a href='https://enhanced-chatgpt-zeta.vercel.app/'>
 <img src='./assets/gpt2.jpg'>
+</a>
 </p>
 <br>
 
@@ -81,6 +83,7 @@ Frameworks/libraries used to this project:
 - OpenAI
 - Vite
 - React
+- Tailwind CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
