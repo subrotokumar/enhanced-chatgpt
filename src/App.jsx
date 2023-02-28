@@ -17,7 +17,7 @@ function App() {
   const [chatLog, setChatLog] = useState([
     {
       user: "gpt",
-      message: "How can I help you my master?"
+      message: "How can I help you?"
     }
   ])
 
@@ -31,7 +31,7 @@ function App() {
 
   const clearChat = () => setChatLog([{
     user: "gpt",
-    message: "How can I help you my master?"
+    message: "How can I help you?"
   }]);
 
   function getEngines() {
